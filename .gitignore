@@ -1,0 +1,4 @@
+vendor/
+file-system/
+.idea
+composer.phar
